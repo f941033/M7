@@ -1886,3 +1886,396 @@ Make sure '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCh
 [2025.05.17-17.16.35:219][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2025.05.17-17.16.35:315][243]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2025.05.17-17.16.37:234][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.17-17.17.52:995][905]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.52:997][905]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.52:999][905]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.52:999][905]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:152][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:153][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:153][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:154][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:169][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:169][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:194][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.17-17.17.53:204][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:206][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:208][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:210][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:210][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:258][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:259][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:260][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:262][911]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.53:268][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.17-17.17.53:412][911]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.05.17-17.17.53:590][911]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.05.17-17.17.53:590][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.05.17-17.17.53:619][911]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.17-17.17.53:620][911]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_ThirdPersonCharacterBB2D931247063D7009AE6DAD3AF45F11.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.17-17.17.53:631][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 362.406 ms (total: 1.20 sec)
+[2025.05.17-17.17.53:841][911]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.17-17.17.53:841][911]LogContentValidation: Enabled validators:
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.17-17.17.53:841][911]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.17-17.17.53:841][911]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.05.17-17.17.56:535][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.17-17.17.56:548][ 49]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.17-17.17.56:548][ 49]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.17-17.17.56:554][ 49]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.435 ms (total: 35.919 ms)
+[2025.05.17-17.17.56:555][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.17-17.17.56:555][ 49]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.17.56:559][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003776s)
+[2025.05.17-17.17.56:559][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003818s)
+[2025.05.17-17.17.56:580][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.17-17.17.56:583][ 49]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.17-17.17.56:585][ 49]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.17-17.17.56:585][ 49]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.17-17.17.56:585][ 49]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.17-17.17.56:585][ 49]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.17-17.17.56:586][ 49]LogWorldPartition: Display: WorldPartition initialize took 1.445 ms (total: 102.284 ms)
+[2025.05.17-17.17.56:586][ 49]LogPlayLevel: PIE: World Init took: (0.003114s)
+[2025.05.17-17.17.56:587][ 49]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.17-17.17.56:587][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.17-17.17.56:587][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.17-17.17.56:587][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.17-17.17.56:587][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.17-17.17.56:587][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.17-17.17.56:590][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.17-17.17.56:619][ 49]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logi USB Headset)
+[2025.05.17-17.17.56:619][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.17-17.17.56:619][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.17-17.17.56:619][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.17-17.17.56:619][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.17-17.17.56:620][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.17-17.17.56:622][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.17-17.17.56:622][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.17-17.17.56:622][ 49]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.17-17.17.56:622][ 49]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.05.17-17.17.56:622][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.17-17.17.56:625][ 49]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.17-17.17.56:628][ 49]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.17-19.17.56
+[2025.05.17-17.17.56:628][ 49]LogWorld: Bringing up level for play took: 0.002534
+[2025.05.17-17.17.56:630][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.17-17.17.56:632][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.17.56:636][ 49]PIE: Server logged in
+[2025.05.17-17.17.56:638][ 49]PIE: Play in editor total start time 0,089 seconds.
+[2025.05.17-17.18.04:622][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.18.04:622][521]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.18.04:623][521]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.18.04:624][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.18.04:624][521]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.17-17.18.04:630][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.17-17.18.04:635][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.18.04:664][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.17-17.18.04:664][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.17-17.18.04:664][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.17-17.18.04:667][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.17-17.18.04:672][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.18.04:675][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.17-17.18.04:773][522]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.17-17.18.17:713][277]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.17-17.18.17:785][279]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.17-17.18.17:872][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.17-17.18.17:900][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.17-17.18.17:986][285]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.05.17-17.18.17:994][285]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:021][286]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:038][287]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:056][288]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:073][289]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:090][290]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:108][291]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:125][292]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:142][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:158][294]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:175][295]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:191][296]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:207][297]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:225][298]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:242][299]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:258][300]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:275][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.18:293][302]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.27:036][809]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Girl/Animations/Walking.Walking
+[2025.05.17-17.18.27:062][809]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.05.17-17.18.27:071][809]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.17-17.18.27:094][809]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.17-17.18.27:534][809]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.05.17-17.18.28:058][809]LogSlate: Took 0.006003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.17-17.18.28:081][809]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.05.17-17.18.28:088][809]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.17-17.18.28:406][814]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.38:688][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.17-17.18.38:802][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Girl/Animations/Walking] ([1] browsable assets)...
+[2025.05.17-17.18.38:808][273]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Girl/Animations/Walking.Walking]
+[2025.05.17-17.18.38:808][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Girl/Animations/Walking]
+[2025.05.17-17.18.38:819][273]LogSavePackage: Moving output files for package: /Game/Characters/Girl/Animations/Walking
+[2025.05.17-17.18.38:820][273]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/WalkingBE2D50BA4F426754A22297ADFE9D43ED.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/Characters/Girl/Animations/Walking.uasset'
+[2025.05.17-17.18.38:832][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.957 ms (total: 1.34 sec)
+[2025.05.17-17.18.39:043][273]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.17-17.18.39:043][273]LogContentValidation: Enabled validators:
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.17-17.18.39:043][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.17-17.18.39:043][273]AssetCheck: /Game/Characters/Girl/Animations/Walking Validating asset
+[2025.05.17-17.18.42:387][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.17-17.18.42:402][434]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.17-17.18.42:402][434]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.17-17.18.42:408][434]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.403 ms (total: 42.322 ms)
+[2025.05.17-17.18.42:408][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.17-17.18.42:441][434]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.18.42:445][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004373s)
+[2025.05.17-17.18.42:445][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004424s)
+[2025.05.17-17.18.42:480][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.17-17.18.42:482][434]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.17-17.18.42:483][434]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.17-17.18.42:483][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.17-17.18.42:483][434]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.17-17.18.42:483][434]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.17-17.18.42:484][434]LogWorldPartition: Display: WorldPartition initialize took 1.448 ms (total: 103.733 ms)
+[2025.05.17-17.18.42:484][434]LogPlayLevel: PIE: World Init took: (0.003101s)
+[2025.05.17-17.18.42:485][434]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.17-17.18.42:485][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.17-17.18.42:485][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.17-17.18.42:485][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.17-17.18.42:485][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.17-17.18.42:485][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.17-17.18.42:488][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.17-17.18.42:515][434]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logi USB Headset)
+[2025.05.17-17.18.42:515][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.17-17.18.42:515][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.17-17.18.42:515][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.17-17.18.42:516][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.17-17.18.42:516][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.05.17-17.18.42:518][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.17-17.18.42:520][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.17-17.18.42:520][434]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.17-17.18.42:520][434]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.05.17-17.18.42:520][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.17-17.18.42:523][434]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.17-17.18.42:525][434]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.17-19.18.42
+[2025.05.17-17.18.42:525][434]LogWorld: Bringing up level for play took: 0.002140
+[2025.05.17-17.18.42:528][434]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.05.17-17.18.42:529][434]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.18.42:532][434]PIE: Server logged in
+[2025.05.17-17.18.42:533][434]PIE: Play in editor total start time 0,132 seconds.
+[2025.05.17-17.19.00:222][379]LogBlueprintUserMessages: [BP_InventoryComp] Objeto: escudo ;  Debería protegerte de cosas
+[2025.05.17-17.19.01:441][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.01:441][444]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.19.01:442][444]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.01:443][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.01:443][444]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.17-17.19.01:447][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.17-17.19.01:453][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.01:474][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.17-17.19.01:474][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.17-17.19.01:474][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.17-17.19.01:477][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.17-17.19.01:483][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.01:487][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.17-17.19.01:576][445]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.05.17-17.19.14:789][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.17-17.19.14:924][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Girl/Animations/Walking] ([1] browsable assets)...
+[2025.05.17-17.19.14:932][ 51]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Girl/Animations/Walking.Walking]
+[2025.05.17-17.19.14:932][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Girl/Animations/Walking]
+[2025.05.17-17.19.14:941][ 51]LogSavePackage: Moving output files for package: /Game/Characters/Girl/Animations/Walking
+[2025.05.17-17.19.14:942][ 51]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/WalkingD3EE4BAC49485C44DCC1428D95778D6D.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/Characters/Girl/Animations/Walking.uasset'
+[2025.05.17-17.19.14:956][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.115 ms (total: 1.51 sec)
+[2025.05.17-17.19.15:131][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: Enabled validators:
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.17-17.19.15:132][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.17-17.19.15:132][ 51]AssetCheck: /Game/Characters/Girl/Animations/Walking Validating asset
+[2025.05.17-17.19.17:043][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.17-17.19.17:061][127]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.17-17.19.17:061][127]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.17-17.19.17:070][127]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8.580 ms (total: 50.902 ms)
+[2025.05.17-17.19.17:071][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.17-17.19.17:071][127]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.19.17:075][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004963s)
+[2025.05.17-17.19.17:075][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005030s)
+[2025.05.17-17.19.17:099][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.17-17.19.17:102][127]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.17-17.19.17:104][127]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.17-17.19.17:104][127]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.17-17.19.17:104][127]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.17-17.19.17:104][127]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.17-17.19.17:105][127]LogWorldPartition: Display: WorldPartition initialize took 1.762 ms (total: 105.495 ms)
+[2025.05.17-17.19.17:105][127]LogPlayLevel: PIE: World Init took: (0.003705s)
+[2025.05.17-17.19.17:106][127]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.17-17.19.17:106][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.17-17.19.17:106][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.17-17.19.17:106][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.17-17.19.17:106][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.17-17.19.17:106][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.17-17.19.17:110][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.17-17.19.17:140][127]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logi USB Headset)
+[2025.05.17-17.19.17:141][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.17-17.19.17:141][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.17-17.19.17:141][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.17-17.19.17:141][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.17-17.19.17:141][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.17-17.19.17:145][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.17-17.19.17:145][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.17-17.19.17:145][127]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.17-17.19.17:145][127]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.05.17-17.19.17:145][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.17-17.19.17:151][127]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.17-17.19.17:154][127]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.17-19.19.17
+[2025.05.17-17.19.17:154][127]LogWorld: Bringing up level for play took: 0.002587
+[2025.05.17-17.19.17:157][127]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.05.17-17.19.17:159][127]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.17:164][127]PIE: Server logged in
+[2025.05.17-17.19.17:165][127]PIE: Play in editor total start time 0,104 seconds.
+[2025.05.17-17.19.19:188][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1385.550537
+[2025.05.17-17.19.19:386][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.17-17.19.19:386][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1385.729858, Update Interval: 321.099884
+[2025.05.17-17.19.24:180][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.24:180][500]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.19.24:182][500]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.24:183][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.24:183][500]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.17-17.19.24:188][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.17-17.19.24:192][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.24:218][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.24:218][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.17-17.19.24:218][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.17-17.19.24:220][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.17-17.19.24:228][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.17-17.19.24:318][501]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.05.17-17.19.35:608][ 44]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:610][ 44]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:611][ 44]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:612][ 44]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:766][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:767][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:768][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:768][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:783][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:783][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:810][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.17-17.19.35:822][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:823][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:825][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:826][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:826][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:860][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:862][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:863][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:864][ 49]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.35:868][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.17-17.19.36:014][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.05.17-17.19.36:026][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.05.17-17.19.36:026][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.05.17-17.19.36:054][ 49]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.17-17.19.36:055][ 49]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_ThirdPersonCharacter71874F7C4F88294BED73D581655214AB.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.17-17.19.36:069][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.403 ms (total: 1.71 sec)
+[2025.05.17-17.19.36:273][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: Enabled validators:
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.17-17.19.36:274][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.17-17.19.36:274][ 49]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.05.17-17.19.41:596][291]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.17-17.19.41:609][291]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.17-17.19.41:609][291]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.17-17.19.41:617][291]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.594 ms (total: 57.496 ms)
+[2025.05.17-17.19.41:617][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.17-17.19.41:617][291]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.19.41:622][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004184s)
+[2025.05.17-17.19.41:622][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004228s)
+[2025.05.17-17.19.41:643][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.17-17.19.41:651][291]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.17-17.19.41:653][291]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.17-17.19.41:653][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.17-17.19.41:653][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.17-17.19.41:653][291]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.17-17.19.41:654][291]LogWorldPartition: Display: WorldPartition initialize took 1.625 ms (total: 107.121 ms)
+[2025.05.17-17.19.41:654][291]LogPlayLevel: PIE: World Init took: (0.003485s)
+[2025.05.17-17.19.41:656][291]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.17-17.19.41:656][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.17-17.19.41:656][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.17-17.19.41:656][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.17-17.19.41:656][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.17-17.19.41:656][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.17-17.19.41:659][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.17-17.19.41:682][291]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logi USB Headset)
+[2025.05.17-17.19.41:682][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.17-17.19.41:682][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.17-17.19.41:682][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.17-17.19.41:683][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.17-17.19.41:683][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.05.17-17.19.41:686][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.17-17.19.41:686][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.17-17.19.41:686][291]LogInit: FAudioDevice initialized with ID 10.
+[2025.05.17-17.19.41:686][291]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.05.17-17.19.41:686][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.17-17.19.41:688][291]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.17-17.19.41:691][291]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.17-19.19.41
+[2025.05.17-17.19.41:692][291]LogWorld: Bringing up level for play took: 0.002146
+[2025.05.17-17.19.41:694][291]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.17-17.19.41:696][291]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.17-17.19.41:698][291]PIE: Server logged in
+[2025.05.17-17.19.41:700][291]PIE: Play in editor total start time 0,09 seconds.
+[2025.05.17-17.19.47:791][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.47:791][621]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.17-17.19.47:791][621]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.47:794][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.47:794][621]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.17-17.19.47:800][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.17-17.19.47:807][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.47:829][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.17-17.19.47:829][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.17-17.19.47:829][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.17-17.19.47:832][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.17-17.19.47:837][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.17-17.19.47:840][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.17-17.19.47:932][622]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.17-17.19.49:718][692]LogSlate: Window 'Walking' being destroyed
+[2025.05.17-17.19.49:734][692]LogSlate: Window 'Walking' being destroyed
+[2025.05.17-17.19.49:793][692]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.49:794][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.49:802][692]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.49:802][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.49:868][692]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.17-17.19.49:868][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.17-17.19.49:905][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.17-17.19.55:665][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
