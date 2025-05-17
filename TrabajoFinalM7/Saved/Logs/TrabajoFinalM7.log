@@ -6385,3 +6385,10 @@ Make sure '/Game/Puerta/BP_Puerta.BP_Puerta_C' has been compiled for  Get Puerta
 [2025.05.17-16.09.12:565][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.17-16.09.12:565][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.17-16.09.12:565][939]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.05.17-16.12.19:472][683]LogDerivedDataCache: C:/Users/raque/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.17-16.14.04:086][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18216.488281
+[2025.05.17-16.14.05:087][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.17-16.14.05:087][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18217.156250, Update Interval: 309.534607
+[2025.05.17-16.19.52:145][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18564.640625
+[2025.05.17-16.19.53:147][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.17-16.19.53:148][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18565.306641, Update Interval: 325.609924
