@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_NPC_CONVERSATION.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/Dialogue/BP_NPC_CONVERSATION.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/Dialogue/AIC_NPC.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/Dialogue/BP_DialogueComponent.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/Dialogue/BT_Dialogue_01.uasset",
+				"C:/Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/Dialogue/BTTask_TalkLine.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E9/X06RXKPU89IBOL1XN8CH13.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_Shield_Item.uasset",
