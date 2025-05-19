@@ -3067,3 +3067,176 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.19-10.34.26:857][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.05.19-10.34.26:861][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2025.05.19-10.34.26:911][952]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.05.19-10.37.43:653][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4715.620605
+[2025.05.19-10.37.44:653][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-10.37.44:653][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4716.287109, Update Interval: 307.051605
+[2025.05.19-10.43.22:371][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5054.348145
+[2025.05.19-10.43.23:373][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-10.43.23:373][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5055.015625, Update Interval: 311.993774
+[2025.05.19-10.48.46:079][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_HealthComponent.BP_HealthComponent
+[2025.05.19-10.48.46:080][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.05.19-10.48.48:160][262]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-10.48.48:160][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-10.48.48:175][262]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-10.48.48:175][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-10.48.48:277][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.19-10.48.49:978][362]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-10.48.49:978][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-10.48.50:067][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.19-10.48.51:384][439]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-10.48.51:384][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-10.48.51:480][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.19-10.49.31:788][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5423.781738
+[2025.05.19-10.49.31:954][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-10.49.31:955][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5423.931641, Update Interval: 302.559906
+[2025.05.19-10.50.59:079][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.19-10.50.59:083][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2025.05.19-10.50.59:083][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2025.05.19-10.50.59:083][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HealthComponent]
+[2025.05.19-10.50.59:090][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_HealthComponent_Auto3
+[2025.05.19-10.50.59:090][ 55]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_HealthComponent_Auto38320CAF64971A05F6F78939338E070B1.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_HealthComponent_Auto3.uasset'
+[2025.05.19-10.50.59:091][ 55]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.05.19-10.53.02:395][926]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.02:398][926]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.02:399][926]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.02:399][926]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.32:828][236]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.32:831][236]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.32:832][236]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.32:834][236]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.59:618][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.59:620][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.59:621][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.53.59:622][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.54.30:304][642]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.54.30:307][642]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.54.30:308][642]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.54.30:309][642]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-10.55.12:137][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5764.136230
+[2025.05.19-10.55.12:320][144]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-10.55.12:320][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5764.304688, Update Interval: 351.443237
+[2025.05.19-10.58.51:936][ 67]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.19-10.59.15:376][351]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.19-10.59.15:389][351]LogSlate: Window 'Project Settings' being destroyed
+[2025.05.19-10.59.32:963][383]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2025.05.19-10.59.41:860][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.19-10.59.46:594][898]LogSlate: Window 'Save Content' being destroyed
+[2025.05.19-11.00.40:762][ 68]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.40:764][ 68]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.40:764][ 68]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.40:766][ 68]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:148][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:149][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:150][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:150][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:167][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:168][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:197][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.19-11.00.44:208][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:211][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:212][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:213][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:214][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:275][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:276][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:277][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:278][254]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.00.44:283][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-11.00.44:415][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2025.05.19-11.00.44:415][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HealthComponent]
+[2025.05.19-11.00.44:423][254]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HealthComponent
+[2025.05.19-11.00.44:424][254]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_HealthComponent16268C0B4DAEAAD120DBB2AA738B2180.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_HealthComponent.uasset'
+[2025.05.19-11.00.44:426][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.05.19-11.00.44:544][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.05.19-11.00.44:544][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.05.19-11.00.44:575][254]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.19-11.00.44:576][254]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_ThirdPersonCharacterD74FC7CF4954F4590FB1E49851BB7E76.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.19-11.00.44:591][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.437 ms (total: 4.06 sec)
+[2025.05.19-11.00.44:750][254]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.19-11.00.44:750][254]LogContentValidation: Enabled validators:
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-11.00.44:750][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-11.00.44:750][254]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HealthComponent Validating asset
+[2025.05.19-11.00.44:750][254]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: ================================================
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Total job queries 242, among them cache hits 13 (5.37%), DDC hits 218 (90.08%), Duplicates 2 (0.83%)
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 192 distinct outputs (84.58%)
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: RAM used: 134,40 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Average time worker was idle: 0.84 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 2.49 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Job life time (pending + execution): average 1.67 s, max 2.50
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Shader code size: average 7,749 KiB, min 4,277 KiB, max 11,277 KiB
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.53 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Total thread time: 4,917 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Total thread preprocess time: 3,84 s
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Percentage time preprocessing: 78.11%
+[2025.05.19-11.01.27:407][271]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.89 sec, max 0.95 sec, min 0.84 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.30% of total time (compiled    2 times, average 0.89 sec, max 0.95 sec, min 0.84 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.00% of total time (compiled    2 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.25% of total time (compiled    2 times, average 0.33 sec, max 0.36 sec, min 0.29 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                                  FVelocityPS - 8.46% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.92% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: === Material stats ===
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Materials Translated:    138
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Material Translation Only: 0.05 s (32%)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.05.19-11.01.27:408][271]LogShaderCompilers: Display: ================================================
+[2025.05.19-11.01.53:848][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6165.862305
+[2025.05.19-11.01.54:015][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-11.01.54:015][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6166.013184, Update Interval: 306.286194
+[2025.05.19-11.03.02:520][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.19-11.03.02:527][910]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2025.05.19-11.03.02:528][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2025.05.19-11.03.02:528][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HealthComponent]
+[2025.05.19-11.03.02:535][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_HealthComponent_Auto4
+[2025.05.19-11.03.02:535][910]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_HealthComponent_Auto4AC772EC943456DA01BC8A9B25537CB27.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_HealthComponent_Auto4.uasset'
+[2025.05.19-11.03.02:536][910]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.05.19-11.07.49:495][727]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6521.512207
+[2025.05.19-11.07.49:680][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-11.07.49:680][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6521.679688, Update Interval: 311.858276
+[2025.05.19-11.08.48:445][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.19-11.08.48:458][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:459][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:460][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:461][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:466][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:468][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:469][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:470][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.19-11.08.48:476][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-11.08.48:596][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2025.05.19-11.08.48:596][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HealthComponent]
+[2025.05.19-11.08.48:604][243]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HealthComponent
+[2025.05.19-11.08.48:605][243]LogSavePackage: Moving '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Saved/BP_HealthComponent4EF31BCC4858E3C4428D3CBFC49CC6AD.tmp' to '../../../../../../Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_HealthComponent.uasset'
+[2025.05.19-11.08.48:616][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.891 ms (total: 4.20 sec)
+[2025.05.19-11.08.48:794][243]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-11.08.48:794][243]LogContentValidation: Enabled validators:
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-11.08.48:794][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-11.08.48:794][243]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HealthComponent Validating asset
