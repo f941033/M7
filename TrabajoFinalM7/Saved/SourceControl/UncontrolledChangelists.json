@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/EnemyContent/BP_Enemigo.uasset",
+				"C:/Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_StaminaComp.uasset",
+				"C:/Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
+				"C:/Users/raque/OneDrive/Documentos/GitHub/Unity/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/WBP_StaminaBar.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/ThirdPerson/Blueprints/BP_StaminaComp.uasset",
 				"E:/MASTER/MODULO7. PROTOTIPADO/Tareas/TareaFinal/M7/TrabajoFinalM7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QD/4RJMHNMJYFCBF43BFAVSHB.uasset"
