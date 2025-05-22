@@ -3272,3 +3272,1214 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.22-10.46.52:721][805]AssetCheck: /Game/ThirdPerson/Blueprints/Dialogue/BB_Dialogue_01 Validating asset
 [2025.05.22-10.46.52:721][805]AssetCheck: /Game/ThirdPerson/Blueprints/Dialogue/BT_Dialogue_01 Validating asset
 [2025.05.22-10.46.52:722][805]AssetCheck: /Game/Characters/Sprites/Viejete Validating asset
+[2025.05.22-10.48.18:594][ 98]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.48.18:611][ 98]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx]
+[2025.05.22-10.48.26:158][ 98]LogSlate: Window 'Import Content' being destroyed
+[2025.05.22-10.48.26:181][ 98]LogInterchangeEngine: [Pending] Importing
+[2025.05.22-10.48.26:236][ 99]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.48.26:598][107]LogStreaming: Display: FlushAsyncLoading(607): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.48.26:696][109]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.48.26:945][128]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.48.26:959][129]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim (Required Memory Estimate: 3.82 MB)
+[2025.05.22-10.48.27:017][129]LogAnimationCompression: Display: Storing compressed animation data for /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim, at AnimationSequence/c231692ecd39b86a7f1f3c4e61ca0332afa51881
+[2025.05.22-10.48.27:036][129]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness.Ch39_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2025.05.22-10.48.27:092][131]LogTexture: Display: Waiting for textures to be ready 0/4 (/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal) ...
+[2025.05.22-10.48.27:166][131]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular.Ch39_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.22-10.48.27:166][131]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse.Ch39_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.22-10.48.27:166][131]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal.Ch39_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2025.05.22-10.48.27:504][131]LogSkeletalMesh: Building Skeletal Mesh Breathing_Idle__1_...
+[2025.05.22-10.48.27:905][170]LogSkeletalMesh: Built Skeletal Mesh [0.40s] /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.48.27:936][171]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.05.22-10.48.27:940][171]LogMaterial: Display: Material /Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body.Ch39_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.22-10.48.27:984][171]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.48.27:984][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.48.28:004][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.22-10.48.28:047][172]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx]
+[2025.05.22-10.48.28:047][172]Interchange: Warning: [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx : 'Breathing Idle (1)', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.05.22-10.48.28:047][172]Interchange: Warning: [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx : 'Breathing_Idle__1_', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.22-10.48.28:090][172]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.22-10.48.28:090][172]LogInterchangeEngine: [Success] Import Done
+[2025.05.22-10.48.28:152][173]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.22-10.48.29:250][263]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.05.22-10.48.29:264][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.05.22-10.48.29:280][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.05.22-10.48.29:296][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.05.22-10.48.31:156][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.22-10.48.31:157][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2025.05.22-10.48.31:157][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset] ([1] browsable assets)...
+[2025.05.22-10.48.31:226][457]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset]
+[2025.05.22-10.48.31:226][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset]
+[2025.05.22-10.48.31:229][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset_Auto3
+[2025.05.22-10.48.31:229][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__1__PhysicsAsset_819821884FD510E05DC41DAB66719EC7.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset_Auto3.uasset'
+[2025.05.22-10.48.31:229][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse] ([1] browsable assets)...
+[2025.05.22-10.48.31:230][457]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse.Ch39_1001_Diffuse]
+[2025.05.22-10.48.31:230][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse]
+[2025.05.22-10.48.31:265][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse_Auto3
+[2025.05.22-10.48.31:265][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Ch39_1001_Diffuse_Auto3A0AA89A441DAE97139C7B2A74E324CBD.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse_Auto3.uasset'
+[2025.05.22-10.48.31:266][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness] ([1] browsable assets)...
+[2025.05.22-10.48.31:267][457]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness.Ch39_1001_Glossiness]
+[2025.05.22-10.48.31:267][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness]
+[2025.05.22-10.48.31:273][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness_Auto3
+[2025.05.22-10.48.31:273][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Ch39_1001_Glossiness_Auto3D85676B449525A7DF668A58A5A77F419.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Glossiness_Auto3.uasset'
+[2025.05.22-10.48.31:274][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal] ([1] browsable assets)...
+[2025.05.22-10.48.31:275][457]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal.Ch39_1001_Normal]
+[2025.05.22-10.48.31:275][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal]
+[2025.05.22-10.48.31:313][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal_Auto3
+[2025.05.22-10.48.31:313][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Ch39_1001_Normal_Auto3CB3A8970462C5189EAC0C4AAEF9C8085.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Normal_Auto3.uasset'
+[2025.05.22-10.48.31:313][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular] ([1] browsable assets)...
+[2025.05.22-10.48.31:348][457]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular.Ch39_1001_Specular]
+[2025.05.22-10.48.31:348][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular]
+[2025.05.22-10.48.31:383][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular_Auto3
+[2025.05.22-10.48.31:383][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Ch39_1001_Specular_Auto360D0C82E49906286933FC1BF61955933.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Specular_Auto3.uasset'
+[2025.05.22-10.48.31:384][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton] ([1] browsable assets)...
+[2025.05.22-10.48.31:389][457]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton]
+[2025.05.22-10.48.31:389][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton]
+[2025.05.22-10.48.31:390][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton_Auto3
+[2025.05.22-10.48.31:390][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__1__Skeleton_Auto060BD9DD425DBA2D48C7088AFA88B83F.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton_Auto3.uasset'
+[2025.05.22-10.48.31:390][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body] ([1] browsable assets)...
+[2025.05.22-10.48.31:394][457]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body.Ch39_Body]
+[2025.05.22-10.48.31:394][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body]
+[2025.05.22-10.48.31:397][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body_Auto3
+[2025.05.22-10.48.31:397][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Ch39_Body_Auto33AEEE7C644E32D60BCA22F9AE4192B31.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body_Auto3.uasset'
+[2025.05.22-10.48.31:398][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_] ([1] browsable assets)...
+[2025.05.22-10.48.31:402][457]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_]
+[2025.05.22-10.48.31:402][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_]
+[2025.05.22-10.48.31:420][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Auto3
+[2025.05.22-10.48.31:420][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__1__Auto35C68AF0245D1FEA3CAFB099654D7F6F5.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Auto3.uasset'
+[2025.05.22-10.48.31:420][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim] ([1] browsable assets)...
+[2025.05.22-10.48.31:425][457]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim]
+[2025.05.22-10.48.31:425][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim]
+[2025.05.22-10.48.31:430][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim_Auto3
+[2025.05.22-10.48.31:430][457]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__1__Anim_Auto3E99F1F0E461DE7DD5BADEAA71326A023.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim_Auto3.uasset'
+[2025.05.22-10.48.31:431][457]LogFileHelpers: Auto-saving content packages took 0.273
+[2025.05.22-10.48.32:702][582]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.22-10.48.32:759][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.05.22-10.48.32:789][587]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.05.22-10.48.34:064][736]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.34:070][736]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.46:030][ 54]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.46:032][ 54]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.50:275][507]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.50:277][507]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Total job queries 247, among them cache hits 22 (8.91%), DDC hits 207 (83.81%), Duplicates 3 (1.21%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Tracking 222 distinct input hashes that result in 187 distinct outputs (84.23%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: RAM used: 132,54 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Average time worker was idle: 837.35 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 1.53 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 1.56
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Shader code size: average 9,761 KiB, min 5,941 KiB, max 14,297 KiB
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.80 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Average processing rate: 5.36 jobs/sec
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Total thread time: 5,28 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Total thread preprocess time: 3,316 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Percentage time preprocessing: 62.81%
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Effective parallelization: 1.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.80 sec, max 0.81 sec, min 0.80 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                             FDebugViewModePS - 30.47% of total time (compiled    2 times, average 0.80 sec, max 0.81 sec, min 0.80 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.79% of total time (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.76% of total time (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.21% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.71% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: === Material stats ===
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Materials Translated:    137
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Material Translation Only: 0.03 s (32%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: Material Cache Hits: 30 (22%)
+[2025.05.22-10.48.55:445][ 64]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.48.59:231][436]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.22-10.48.59:241][436]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.48.59:241][436]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.48.59:241][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.05.22-10.48.59:242][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2025.05.22-10.48.59:243][436]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim
+[2025.05.22-10.48.59:243][436]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim
+[2025.05.22-10.48.59:243][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2025.05.22-10.48.59:243][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2025.05.22-10.48.59:244][436]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.05.22-10.48.59:244][436]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_2. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.05.22-10.48.59:244][436]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.05.22-10.48.59:245][436]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.48.59:245][436]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.48.59:245][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2025.05.22-10.48.59:246][436]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2025.05.22-10.49.00:076][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.22-10.49.00:078][492]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.05.22-10.49.00:090][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.49.00:090][492]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.05.22-10.49.00:102][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.49.00:103][492]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.05.22-10.49.00:115][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.49.00:116][492]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.05.22-10.49.00:123][492]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.49.00:123][492]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.49.00:127][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708943224
+[2025.05.22-10.49.00:129][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708943224
+[2025.05.22-10.49.00:130][492]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim
+[2025.05.22-10.49.00:130][492]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim
+[2025.05.22-10.49.00:131][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708950225
+[2025.05.22-10.49.00:131][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708950225
+[2025.05.22-10.49.00:133][492]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708952226
+[2025.05.22-10.49.00:133][492]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_UAID_D843AEC66745C06A02_1708952226. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.05.22-10.49.00:133][492]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708952226
+[2025.05.22-10.49.00:134][492]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.00:134][492]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.00:135][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708954227
+[2025.05.22-10.49.00:135][492]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708954227
+[2025.05.22-10.49.02:481][667]Cmd: TRANSACTION UNDO
+[2025.05.22-10.49.02:481][667]LogEditorTransaction: Undo Place Objects
+[2025.05.22-10.49.11:309][501]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.11:309][501]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.11:310][501]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2025.05.22-10.49.11:310][501]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2025.05.22-10.49.12:754][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.49.12:756][661]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.05.22-10.49.12:760][661]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.12:760][661]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.12:763][661]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1721580228
+[2025.05.22-10.49.12:763][661]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1721580228
+[2025.05.22-10.49.46:253][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2399.848389
+[2025.05.22-10.49.46:403][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-10.49.46:403][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2399.989990, Update Interval: 312.687775
+[2025.05.22-10.49.59:836][822]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.49.59:848][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.05.22-10.49.59:851][822]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.49.59:884][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-10.50.00:093][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.05.22-10.50.02:268][  9]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.50.02:268][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.50.02:306][  9]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.50.02:306][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.50.02:322][  9]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708943224 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HL/GD7261ZSHBHLPK78IW2J6I.PackageMetaData in its package
+[2025.05.22-10.50.02:322][  9]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708950225 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/RV2FOIVWJLZSMDKQDFBVB3.PackageMetaData in its package
+[2025.05.22-10.50.02:322][  9]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708954227 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GB/RR8CVG5HZZK7LYYZN41Q7I.PackageMetaData in its package
+[2025.05.22-10.50.02:322][  9]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1708952226 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/5M/NVEPA0PS8MWXLZV84HG3TA.PackageMetaData in its package
+[2025.05.22-10.50.02:332][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.22-10.50.02:351][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-10.50.11:662][935]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__PhysicsAsset.Breathing_Idle__1__PhysicsAsset
+[2025.05.22-10.50.11:676][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.05.22-10.50.11:691][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.05.22-10.50.13:676][ 82]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.50.13:676][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.50.13:730][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-10.50.16:634][368]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-10.50.16:635][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.05.22-10.50.16:640][368]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-10.50.18:669][526]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.50.18:669][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.50.18:705][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.22-10.50.48:108][661]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.50.48:110][661]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.50.51:593][ 22]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.50.51:595][ 22]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:471][547]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:485][548]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:499][549]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:513][550]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:526][551]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:539][552]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:553][553]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:567][554]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:583][555]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:599][556]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:613][557]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:626][558]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:640][559]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:654][560]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:667][561]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:680][562]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:693][563]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:707][564]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:719][565]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:731][566]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:745][567]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:758][568]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:773][569]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:786][570]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:799][571]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.05:813][572]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:067][602]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:080][603]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:094][604]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:108][605]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:120][606]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:136][607]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:201][615]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:904][694]Cmd: TRANSACTION UNDO
+[2025.05.22-10.51.06:904][694]LogEditorTransaction: Undo Edit Crouched Eye Height
+[2025.05.22-10.51.06:921][694]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:922][694]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.06:923][694]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.51.17:706][715]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.51.17:706][715]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.51.17:706][715]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2025.05.22-10.51.17:706][715]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2025.05.22-10.51.18:331][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-10.51.18:336][778]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.05.22-10.51.18:341][778]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.51.18:341][778]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Skeleton.Breathing_Idle__1__Skeleton
+[2025.05.22-10.51.18:343][778]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1847161229
+[2025.05.22-10.51.18:343][778]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1847161229
+[2025.05.22-10.51.21:371][ 66]Cmd: TRANSACTION UNDO
+[2025.05.22-10.51.21:371][ 66]LogEditorTransaction: Undo Place Objects
+[2025.05.22-10.51.45:597][514]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1847161229 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SY/FRG2CHTA6H89DJLSU9F0O9.PackageMetaData in its package
+[2025.05.22-10.51.45:598][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.22-10.51.46:756][514]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.51.46:806][514]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_
+	Asset Type: SkeletalMesh
+[2025.05.22-10.51.47:065][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-10.51.47:082][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.51.47:094][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.22-10.51.47:158][515]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:158][515]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1_.Breathing_Idle__1_'
+[2025.05.22-10.51.47:175][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.22-10.51.47:189][516]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:209][517]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:217][518]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:226][519]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:234][520]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:243][521]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:251][522]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:259][523]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:267][524]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:276][525]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:284][526]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:293][527]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:301][528]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:344][529]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:374][530]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:382][531]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:390][532]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:398][533]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:407][534]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:415][535]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:423][536]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:431][537]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:440][538]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:449][539]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:457][540]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:465][541]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:474][542]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:482][543]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:490][544]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:499][545]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:507][546]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:516][547]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:563][548]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:571][549]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:579][550]LogStreaming: Display: FlushAsyncLoading(656): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:587][551]LogStreaming: Display: FlushAsyncLoading(657): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:734][563]LogStreaming: Display: FlushAsyncLoading(658): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:743][564]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:753][565]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:762][566]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:771][567]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:780][568]LogStreaming: Display: FlushAsyncLoading(663): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:790][569]LogStreaming: Display: FlushAsyncLoading(664): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:800][570]LogStreaming: Display: FlushAsyncLoading(665): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:810][571]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:819][572]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:828][573]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:839][574]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:848][575]LogStreaming: Display: FlushAsyncLoading(670): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:857][576]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:866][577]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:876][578]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:885][579]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:894][580]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:904][581]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:913][582]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:923][583]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:931][584]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:942][585]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:951][586]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:962][587]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:973][588]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:983][589]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.47:991][590]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:001][591]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:020][593]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:039][594]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:052][595]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:064][596]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:075][597]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:088][598]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:099][599]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:111][600]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:123][601]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:135][602]LogStreaming: Display: FlushAsyncLoading(714): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:145][603]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:157][604]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:291][618]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:301][619]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:313][620]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:325][621]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:336][622]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:347][623]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:358][624]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:370][625]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:381][626]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:392][627]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:404][628]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:415][629]LogStreaming: Display: FlushAsyncLoading(756): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:427][630]LogStreaming: Display: FlushAsyncLoading(759): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:439][631]LogStreaming: Display: FlushAsyncLoading(762): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:451][632]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:463][633]LogStreaming: Display: FlushAsyncLoading(768): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:475][634]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:488][635]LogStreaming: Display: FlushAsyncLoading(774): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:510][637]LogStreaming: Display: FlushAsyncLoading(777): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:518][638]LogStreaming: Display: FlushAsyncLoading(778): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:526][639]LogStreaming: Display: FlushAsyncLoading(779): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:535][640]LogStreaming: Display: FlushAsyncLoading(780): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:543][641]LogStreaming: Display: FlushAsyncLoading(781): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.48:565][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.22-10.51.49:134][642]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.51.49:150][642]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim
+	Asset Type: AnimSequence
+[2025.05.22-10.51.49:493][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-10.51.49:506][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-10.51.49:518][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.05.22-10.51.49:528][642]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:578][643]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:589][644]LogStreaming: Display: FlushAsyncLoading(785): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:597][645]LogStreaming: Display: FlushAsyncLoading(786): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:608][646]LogStreaming: Display: FlushAsyncLoading(788): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:618][647]LogStreaming: Display: FlushAsyncLoading(790): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:627][648]LogStreaming: Display: FlushAsyncLoading(792): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:637][649]LogStreaming: Display: FlushAsyncLoading(794): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:647][650]LogStreaming: Display: FlushAsyncLoading(796): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:657][651]LogStreaming: Display: FlushAsyncLoading(798): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:666][652]LogStreaming: Display: FlushAsyncLoading(800): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:675][653]LogStreaming: Display: FlushAsyncLoading(802): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:685][654]LogStreaming: Display: FlushAsyncLoading(804): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:724][655]LogStreaming: Display: FlushAsyncLoading(806): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:734][656]LogStreaming: Display: FlushAsyncLoading(808): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:743][657]LogStreaming: Display: FlushAsyncLoading(810): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:752][658]LogStreaming: Display: FlushAsyncLoading(812): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:760][659]LogStreaming: Display: FlushAsyncLoading(814): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:770][660]LogStreaming: Display: FlushAsyncLoading(816): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:779][661]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:788][662]LogStreaming: Display: FlushAsyncLoading(820): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:796][663]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:805][664]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:814][665]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:890][673]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:899][674]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:909][675]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:919][676]LogStreaming: Display: FlushAsyncLoading(834): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:927][677]LogStreaming: Display: FlushAsyncLoading(836): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:938][678]LogStreaming: Display: FlushAsyncLoading(838): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:948][679]LogStreaming: Display: FlushAsyncLoading(840): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:956][680]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:966][681]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:977][682]LogStreaming: Display: FlushAsyncLoading(846): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:986][683]LogStreaming: Display: FlushAsyncLoading(848): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.49:994][684]LogStreaming: Display: FlushAsyncLoading(850): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:005][685]LogStreaming: Display: FlushAsyncLoading(852): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:013][686]LogStreaming: Display: FlushAsyncLoading(854): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:023][687]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:033][688]LogStreaming: Display: FlushAsyncLoading(858): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:043][689]LogStreaming: Display: FlushAsyncLoading(860): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:052][690]LogStreaming: Display: FlushAsyncLoading(862): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:060][691]LogStreaming: Display: FlushAsyncLoading(864): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:071][692]LogStreaming: Display: FlushAsyncLoading(866): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:170][703]LogStreaming: Display: FlushAsyncLoading(868): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:179][704]LogStreaming: Display: FlushAsyncLoading(870): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:188][705]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:196][706]LogStreaming: Display: FlushAsyncLoading(874): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:221][707]LogStreaming: Display: FlushAsyncLoading(876): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:228][708]LogStreaming: Display: FlushAsyncLoading(878): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:237][709]LogStreaming: Display: FlushAsyncLoading(880): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:245][710]LogStreaming: Display: FlushAsyncLoading(882): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:254][711]LogStreaming: Display: FlushAsyncLoading(884): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:264][712]LogStreaming: Display: FlushAsyncLoading(886): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:275][713]LogStreaming: Display: FlushAsyncLoading(888): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:284][714]LogStreaming: Display: FlushAsyncLoading(890): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:293][715]LogStreaming: Display: FlushAsyncLoading(892): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:303][716]LogStreaming: Display: FlushAsyncLoading(894): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:313][717]LogStreaming: Display: FlushAsyncLoading(896): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:322][718]LogStreaming: Display: FlushAsyncLoading(898): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.50:343][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.22-10.51.50:832][719]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.51.50:861][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.05.22-10.51.50:874][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.22-10.51.50:886][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.22-10.51.51:085][734]LogStreaming: Display: FlushAsyncLoading(900): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:093][735]LogStreaming: Display: FlushAsyncLoading(902): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:101][736]LogStreaming: Display: FlushAsyncLoading(903): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:112][737]LogStreaming: Display: FlushAsyncLoading(904): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:121][738]LogStreaming: Display: FlushAsyncLoading(905): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:130][739]LogStreaming: Display: FlushAsyncLoading(906): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:140][740]LogStreaming: Display: FlushAsyncLoading(907): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:149][741]LogStreaming: Display: FlushAsyncLoading(908): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:160][742]LogStreaming: Display: FlushAsyncLoading(909): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:170][743]LogStreaming: Display: FlushAsyncLoading(910): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:179][744]LogStreaming: Display: FlushAsyncLoading(911): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:188][745]LogStreaming: Display: FlushAsyncLoading(912): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:197][746]LogStreaming: Display: FlushAsyncLoading(913): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:208][747]LogStreaming: Display: FlushAsyncLoading(914): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:217][748]LogStreaming: Display: FlushAsyncLoading(915): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:226][749]LogStreaming: Display: FlushAsyncLoading(916): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:236][750]LogStreaming: Display: FlushAsyncLoading(917): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:266][751]LogStreaming: Display: FlushAsyncLoading(918): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:274][752]LogStreaming: Display: FlushAsyncLoading(919): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:282][753]LogStreaming: Display: FlushAsyncLoading(920): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:406][765]LogStreaming: Display: FlushAsyncLoading(921): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:415][766]LogStreaming: Display: FlushAsyncLoading(922): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:423][767]LogStreaming: Display: FlushAsyncLoading(923): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:431][768]LogStreaming: Display: FlushAsyncLoading(924): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:439][769]LogStreaming: Display: FlushAsyncLoading(925): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:448][770]LogStreaming: Display: FlushAsyncLoading(926): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:456][771]LogStreaming: Display: FlushAsyncLoading(927): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:464][772]LogStreaming: Display: FlushAsyncLoading(928): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:472][773]LogStreaming: Display: FlushAsyncLoading(929): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:482][774]LogStreaming: Display: FlushAsyncLoading(930): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:490][775]LogStreaming: Display: FlushAsyncLoading(931): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:498][776]LogStreaming: Display: FlushAsyncLoading(932): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:507][777]LogStreaming: Display: FlushAsyncLoading(933): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:517][778]LogStreaming: Display: FlushAsyncLoading(934): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:526][779]LogStreaming: Display: FlushAsyncLoading(935): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:536][780]LogStreaming: Display: FlushAsyncLoading(936): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.51.51:615][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.22-10.51.52:189][787]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.51.52:217][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.22-10.51.52:230][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.22-10.51.52:245][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.22-10.51.52:965][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.22-10.51.53:644][854]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.51.53:683][854]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Diffuse.Ch39_1001_Diffuse
+	Asset Type: Texture2D
+[2025.05.22-10.51.53:879][854]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body.Ch39_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.22-10.51.53:880][854]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body.Ch39_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.22-10.51.53:880][854]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/Ch39_Body.Ch39_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.22-10.51.53:881][854]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Mat.Ch39_1001_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.22-10.51.53:881][854]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/Ch39_1001_Mat.Ch39_1001_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.22-10.51.53:927][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.22-10.51.53:943][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.22-10.51.53:956][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Total job queries 291, among them cache hits 30 (10.31%), DDC hits 217 (74.57%), Duplicates 3 (1.03%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Tracking 258 distinct input hashes that result in 209 distinct outputs (81.01%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: RAM used: 144,30 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Shaders Compiled: 41
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Jobs assigned 41, completed 41 (100%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Average time worker was idle: 197.05 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.66 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 1.53 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.56
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Shader code size: average 9,12 KiB, min 2,691 KiB, max 14,297 KiB
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.92 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Average processing rate: 8.34 jobs/sec
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Total thread time: 15,063 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Total thread preprocess time: 3,713 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Percentage time preprocessing: 24.65%
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Effective parallelization: 3.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.85 sec, max 0.95 sec, min 0.80 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.61 sec, max 0.72 sec, min 0.51 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.59 sec, max 0.68 sec, min 0.54 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.34 sec, max 0.40 sec, min 0.30 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.32 sec, max 0.40 sec, min 0.29 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                             FDebugViewModePS - 22.65% of total time (compiled    4 times, average 0.85 sec, max 0.95 sec, min 0.80 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.84% of total time (compiled    6 times, average 0.32 sec, max 0.40 sec, min 0.29 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.13% of total time (compiled    3 times, average 0.61 sec, max 0.72 sec, min 0.51 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.77% of total time (compiled    3 times, average 0.59 sec, max 0.68 sec, min 0.54 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.08% of total time (compiled    6 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: === Material stats ===
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Materials Translated:    146
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Material Translation Only: 0.03 s (32%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: Material Cache Hits: 30 (21%)
+[2025.05.22-10.51.55:452][990]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.51.58:633][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.22-10.52.02:899][312]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.52.02:936][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.22-10.52.02:948][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.22-10.52.02:963][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.22-10.52.06:623][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-10.52.06:648][654]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E
+[2025.05.22-10.52.06:648][654]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/101FH12QHFBY168Q6KB08ECB0037D2416FAB02941C85A988653C87.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E.uasset'
+[2025.05.22-10.52.06:649][654]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/09/9H5DUEW7WARPU23V5FD5JJ
+[2025.05.22-10.52.06:649][654]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/9H5DUEW7WARPU23V5FD5JJB30EDCD9445BA9621C001294C9D58C92.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/09/9H5DUEW7WARPU23V5FD5JJ.uasset'
+[2025.05.22-10.52.06:656][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.815 ms (total: 500.811 ms)
+[2025.05.22-10.52.06:679][654]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.22-10.52.06:679][654]LogContentValidation: Enabled validators:
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-10.52.06:679][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-10.52.06:679][654]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.05.22-10.52.40:350][429]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.22-10.52.40:355][429]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.22-10.52.40:363][430]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.22-10.52.46:809][126]LogContentBrowser: Attempting asset rename: NewFolder -> SkeletoEnemy
+[2025.05.22-10.52.46:809][126]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.22-10.52.58:334][538]LogStreaming: Display: FlushAsyncLoading(937): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.52.58:347][538]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Megaluwu/Downloads/Breathing Idle (2).fbx]
+[2025.05.22-10.53.03:632][538]LogSlate: Window 'Import Content' being destroyed
+[2025.05.22-10.53.03:648][538]LogInterchangeEngine: [Pending] Importing
+[2025.05.22-10.53.03:698][539]LogStreaming: Display: FlushAsyncLoading(938): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.03:721][540]LogStreaming: Display: FlushAsyncLoading(943): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.03:751][541]LogStreaming: Display: FlushAsyncLoading(944): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.03:867][544]LogStreaming: Display: FlushAsyncLoading(945): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.03:903][545]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim.Breathing_Idle__2__Anim (Required Memory Estimate: 2.56 MB)
+[2025.05.22-10.53.03:907][545]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular.Peasant_Man_specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2025.05.22-10.53.03:908][545]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse.Peasant_Man_diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.22-10.53.03:908][545]LogTexture: Display: Building textures: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal.Peasant_Man_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2025.05.22-10.53.03:914][545]LogSkeletalMesh: Building Skeletal Mesh Breathing_Idle__2_...
+[2025.05.22-10.53.03:952][546]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim.Breathing_Idle__2__Anim (Required Memory Estimate: 2.56 MB)
+[2025.05.22-10.53.03:965][546]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+[2025.05.22-10.53.03:997][547]LogAnimationCompression: Display: Storing compressed animation data for /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim.Breathing_Idle__2__Anim, at AnimationSequence/6a63dcd9e111e614ffdab82e7ba6938196c24f81
+[2025.05.22-10.53.04:019][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.05.22-10.53.04:023][547]LogMaterial: Display: Material /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02.Peasant_Man_02 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.22-10.53.04:026][547]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-10.53.04:026][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-10.53.04:038][547]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Megaluwu/Downloads/Breathing Idle (2).fbx]
+[2025.05.22-10.53.04:038][547]Interchange: Warning: [C:/Users/Megaluwu/Downloads/Breathing Idle (2).fbx : 'Breathing_Idle__2_', SkeletalMesh] No smoothing group information was found for this mesh 'Peasant_Man' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.22-10.53.04:063][548]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.22-10.53.04:063][548]LogInterchangeEngine: [Success] Import Done
+[2025.05.22-10.53.04:081][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.22-10.53.05:462][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.05.22-10.53.05:518][659]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.05.22-10.53.07:190][806]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+[2025.05.22-10.53.07:190][806]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+[2025.05.22-10.53.07:190][806]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2025.05.22-10.53.07:191][806]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2025.05.22-10.53.07:649][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.22-10.53.07:705][851]LogEditorActor: Deleted 0 Actors (0.071 secs)
+[2025.05.22-10.53.07:712][851]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+[2025.05.22-10.53.07:712][851]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+[2025.05.22-10.53.07:713][851]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1956532230
+[2025.05.22-10.53.07:714][851]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_ as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1956532230
+[2025.05.22-10.53.09:280][  5]Cmd: DELETE
+[2025.05.22-10.53.09:280][  5]Cmd: ACTOR DELETE
+[2025.05.22-10.53.09:289][  5]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.22-10.53.09:305][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.22-10.53.09:308][  5]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.22-10.53.13:044][373]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.13:046][373]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.25:072][626]Cmd: TRANSACTION UNDO
+[2025.05.22-10.53.25:072][626]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2025.05.22-10.53.32:511][410]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.32:513][410]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.35:470][704]LogStreaming: Display: FlushAsyncLoading(946): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.35:583][704]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.05.22-10.53.35:615][705]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.05.22-10.53.38:114][957]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.38:320][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2025.05.22-10.53.38:325][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2025.05.22-10.53.38:329][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.05.22-10.53.38:333][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2025.05.22-10.53.38:334][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.05.22-10.53.38:339][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2025.05.22-10.53.38:341][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2025.05.22-10.53.38:341][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2025.05.22-10.53.38:343][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2025.05.22-10.53.38:346][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2025.05.22-10.53.38:347][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2025.05.22-10.53.38:347][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2025.05.22-10.53.38:349][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2025.05.22-10.53.38:351][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2025.05.22-10.53.38:356][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2025.05.22-10.53.38:358][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2025.05.22-10.53.38:359][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2025.05.22-10.53.38:360][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2025.05.22-10.53.38:365][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2025.05.22-10.53.38:370][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2025.05.22-10.53.38:374][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2025.05.22-10.53.38:374][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2025.05.22-10.53.38:379][957]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2025.05.22-10.53.38:380][957]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.05.22-10.53.38:380][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2025.05.22-10.53.38:390][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2025.05.22-10.53.38:394][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2025.05.22-10.53.38:395][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2025.05.22-10.53.38:399][957]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2025.05.22-10.53.38:433][957]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.05.22-10.53.40:524][957]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.05.22-10.53.40:524][957]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.05.22-10.53.42:919][957]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.05.22-10.53.42:930][957]LogSkeletalMesh: Built Skeletal Mesh [4.55s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.05.22-10.53.42:961][958]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.05.22-10.53.46:460][321]LogStreaming: Display: FlushAsyncLoading(948): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.53.46:560][321]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2025.05.22-10.53.46:684][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.05.22-10.53.52:881][963]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.52:882][963]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.59:921][668]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.53.59:924][668]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.54.05:423][245]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.54.05:425][245]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Total job queries 328, among them cache hits 30 (9.15%), DDC hits 239 (72.87%), Duplicates 3 (0.91%)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Tracking 295 distinct input hashes that result in 231 distinct outputs (78.31%)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: RAM used: 152,57 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Shaders Compiled: 56
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Jobs assigned 56, completed 56 (100%)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Average time worker was idle: 203.54 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.66 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.53 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Job life time (pending + execution): average 0.88 s, max 1.56
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Shader code size: average 9,25 KiB, min 2,691 KiB, max 14,297 KiB
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.30 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Average processing rate: 8.89 jobs/sec
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Total thread time: 22,21 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Total thread preprocess time: 4,149 s
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Percentage time preprocessing: 18.68%
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Effective parallelization: 3.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 0.89 sec, max 0.97 sec, min 0.80 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.64 sec, max 0.72 sec, min 0.51 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.62 sec, max 0.70 sec, min 0.54 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 0.37 sec, max 0.45 sec, min 0.30 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.35 sec, max 0.43 sec, min 0.29 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                             FDebugViewModePS - 23.93% of total time (compiled    6 times, average 0.89 sec, max 0.97 sec, min 0.80 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.58% of total time (compiled    8 times, average 0.35 sec, max 0.43 sec, min 0.29 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.46% of total time (compiled    4 times, average 0.64 sec, max 0.72 sec, min 0.51 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.12% of total time (compiled    4 times, average 0.62 sec, max 0.70 sec, min 0.54 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.08% of total time (compiled    6 times, average 0.37 sec, max 0.45 sec, min 0.30 sec)
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: === Material stats ===
+[2025.05.22-10.54.55:465][256]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: Materials Translated:    150
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: Material Cache Hits: 32 (21%)
+[2025.05.22-10.54.55:466][256]LogShaderCompilers: Display: ================================================
+[2025.05.22-10.55.56:147][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2769.735107
+[2025.05.22-10.55.57:145][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-10.55.57:145][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2770.403564, Update Interval: 322.711273
+[2025.05.22-10.58.31:910][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.22-10.58.31:917][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E_Auto4
+[2025.05.22-10.58.31:918][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/101FH12QHFBY168Q6KB08E_Auto4FC57D5BA481A8415E206D2B1B85F967D.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E_Auto4.uasset'
+[2025.05.22-10.58.31:918][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2025.05.22-10.58.31:918][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.05.22-10.58.31:919][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset] ([1] browsable assets)...
+[2025.05.22-10.58.31:944][991]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset.Breathing_Idle__2__PhysicsAsset]
+[2025.05.22-10.58.31:944][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset]
+[2025.05.22-10.58.31:947][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset_Auto4
+[2025.05.22-10.58.31:947][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__2__PhysicsAsset_C5D20BB04BD458E1DF29A6A8C9F1511D.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset_Auto4.uasset'
+[2025.05.22-10.58.31:948][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse] ([1] browsable assets)...
+[2025.05.22-10.58.31:949][991]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse.Peasant_Man_diffuse]
+[2025.05.22-10.58.31:949][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse]
+[2025.05.22-10.58.31:952][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse_Auto4
+[2025.05.22-10.58.31:952][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Peasant_Man_diffuse_Auto44034C4844B418BE3FFE14A8B6EABBAD1.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse_Auto4.uasset'
+[2025.05.22-10.58.31:952][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal] ([1] browsable assets)...
+[2025.05.22-10.58.31:954][991]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal.Peasant_Man_normal]
+[2025.05.22-10.58.31:954][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal]
+[2025.05.22-10.58.31:956][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal_Auto4
+[2025.05.22-10.58.31:956][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Peasant_Man_normal_Auto42675367F45A0593356E5458372DC1291.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal_Auto4.uasset'
+[2025.05.22-10.58.31:957][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular] ([1] browsable assets)...
+[2025.05.22-10.58.31:958][991]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular.Peasant_Man_specular]
+[2025.05.22-10.58.31:958][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular]
+[2025.05.22-10.58.31:959][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular_Auto4
+[2025.05.22-10.58.31:959][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Peasant_Man_specular_Auto4750662E240C703927D48BDA150400E48.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular_Auto4.uasset'
+[2025.05.22-10.58.31:960][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton] ([1] browsable assets)...
+[2025.05.22-10.58.31:964][991]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton.Breathing_Idle__2__Skeleton]
+[2025.05.22-10.58.31:965][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton]
+[2025.05.22-10.58.31:966][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton_Auto4
+[2025.05.22-10.58.31:966][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__2__Skeleton_AutoCA661587421BD06EB5223AA8C162D077.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton_Auto4.uasset'
+[2025.05.22-10.58.31:966][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02] ([1] browsable assets)...
+[2025.05.22-10.58.31:972][991]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02.Peasant_Man_02]
+[2025.05.22-10.58.31:972][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02]
+[2025.05.22-10.58.31:974][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02_Auto4
+[2025.05.22-10.58.31:974][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Peasant_Man_02_Auto44C6BD48A4CDC8B532C5DEB83D02EB556.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02_Auto4.uasset'
+[2025.05.22-10.58.31:975][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_] ([1] browsable assets)...
+[2025.05.22-10.58.31:979][991]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_]
+[2025.05.22-10.58.31:979][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_]
+[2025.05.22-10.58.31:986][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Auto4
+[2025.05.22-10.58.31:986][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__2__Auto4B28D2DEA4089E3D9F5399EB017B5D629.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Auto4.uasset'
+[2025.05.22-10.58.31:986][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim] ([1] browsable assets)...
+[2025.05.22-10.58.31:990][991]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim.Breathing_Idle__2__Anim]
+[2025.05.22-10.58.31:990][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim]
+[2025.05.22-10.58.31:994][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim_Auto4
+[2025.05.22-10.58.31:994][991]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Breathing_Idle__2__Anim_Auto46CEDDA1040EE48C048AF46B979AA3547.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/Autosaves/Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim_Auto4.uasset'
+[2025.05.22-10.58.31:994][991]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.05.22-10.58.34:071][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.22-10.58.35:415][193]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.22-10.58.35:452][193]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2_.Breathing_Idle__2_
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Anim.Breathing_Idle__2__Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__PhysicsAsset.Breathing_Idle__2__PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__2__Skeleton.Breathing_Idle__2__Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02.Peasant_Man_02
+	Asset Type: Material
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_diffuse.Peasant_Man_diffuse
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_normal.Peasant_Man_normal
+	Asset Type: Texture2D
+	Asset Name: /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_specular.Peasant_Man_specular
+	Asset Type: Texture2D
+[2025.05.22-10.58.35:604][193]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02.Peasant_Man_02: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.22-10.58.35:605][193]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Peasant_Man_02.Peasant_Man_02: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.22-10.58.35:923][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.22-10.58.35:940][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.22-10.58.35:952][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.22-10.58.41:357][511]LogStreaming: Display: FlushAsyncLoading(949): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.58.41:378][511]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Megaluwu/Downloads/Breathing Idle.fbx]
+[2025.05.22-10.58.41:430][511]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.58.41:442][511]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.58.49:545][511]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.58.52:531][511]LogSlate: Window 'Interchange Preview' being destroyed
+[2025.05.22-10.58.53:285][511]LogSlate: Window 'Import Content' being destroyed
+[2025.05.22-10.58.53:303][511]LogInterchangeEngine: [Pending] Importing
+[2025.05.22-10.58.53:340][512]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.05.22-10.58.53:340][512]LogInterchangeEngine: [Success] Import Canceled
+[2025.05.22-10.59.19:212][243]LogStreaming: Display: FlushAsyncLoading(950): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.59.19:231][243]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Megaluwu/Downloads/Breathing Idle.fbx]
+[2025.05.22-10.59.19:281][243]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.59.19:293][243]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.59.26:520][243]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.59.27:409][243]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.05.22-10.59.32:995][243]LogSlate: Window 'Import Content' being destroyed
+[2025.05.22-10.59.33:011][243]LogInterchangeEngine: [Pending] Importing
+[2025.05.22-10.59.33:047][244]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.05.22-10.59.33:047][244]LogInterchangeEngine: [Success] Import Canceled
+[2025.05.22-10.59.53:615][ 68]LogStreaming: Display: FlushAsyncLoading(951): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-10.59.53:619][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Dialogue/BTTask_TalkLine.BTTask_TalkLine
+[2025.05.22-10.59.53:619][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.05.22-10.59.53:671][ 68]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/Dialogue/WB_DIalogue_Respone.WB_DIalogue_Respone
+[2025.05.22-10.59.53:671][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.05.22-10.59.53:676][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.05.22-10.59.53:769][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Dialogue/DIalogoTasks/BTTask_SetName.BTTask_SetName
+[2025.05.22-10.59.53:770][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.05.22-10.59.53:821][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Dialogue/DIalogoTasks/DialogoTask_Text.DialogoTask_Text
+[2025.05.22-10.59.53:821][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.05.22-10.59.53:871][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Dialogue/DIalogoTasks/DialogoTask_Response.DialogoTask_Response
+[2025.05.22-10.59.53:872][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.05.22-10.59.53:923][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Dialogue/O_Respuestas.O_Respuestas
+[2025.05.22-10.59.53:923][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.05.22-11.00.33:057][865]LogStreaming: Display: FlushAsyncLoading(952): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-11.00.33:076][865]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx]
+[2025.05.22-11.00.37:327][865]LogSlate: Window 'Import Content' being destroyed
+[2025.05.22-11.00.37:343][865]LogInterchangeEngine: [Pending] Importing
+[2025.05.22-11.00.37:382][866]LogStreaming: Display: FlushAsyncLoading(953): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-11.00.37:756][883]LogStreaming: Display: FlushAsyncLoading(959): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-11.00.37:855][885]LogStreaming: Display: FlushAsyncLoading(960): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-11.00.38:110][904]LogStreaming: Display: FlushAsyncLoading(961): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.22-11.00.38:126][905]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim (Required Memory Estimate: 3.82 MB)
+[2025.05.22-11.00.38:185][905]LogAnimationCompression: Display: Storing compressed animation data for /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__1__Anim.Breathing_Idle__1__Anim, at AnimationSequence/072cba9b75788b678c29530a7ddb5260bb38bc76
+[2025.05.22-11.00.38:204][905]LogSkeletalMesh: Building Skeletal Mesh Breathing_Idle__1_...
+[2025.05.22-11.00.38:565][936]LogSkeletalMesh: Built Skeletal Mesh [0.36s] /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-11.00.38:609][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.05.22-11.00.38:614][937]LogMaterial: Display: Material /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Ch39_Body.Ch39_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.05.22-11.00.38:642][937]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-11.00.38:643][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-11.00.38:682][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.22-11.00.38:704][938]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx]
+[2025.05.22-11.00.38:704][938]Interchange: Warning: [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx : 'Breathing Idle (1)', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.05.22-11.00.38:704][938]Interchange: Warning: [C:/Users/Megaluwu/Downloads/Breathing Idle (1).fbx : 'Breathing_Idle__1_', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.05.22-11.00.38:737][938]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.22-11.00.38:737][938]LogInterchangeEngine: [Success] Import Done
+[2025.05.22-11.00.38:739][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.05.22-11.00.38:825][940]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.05.22-11.00.42:972][329]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.42:974][329]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.46:931][718]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.46:953][720]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.46:974][722]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.46:995][724]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:016][726]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:039][728]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:060][730]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:082][732]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:104][734]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:128][736]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:151][738]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:175][740]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:198][742]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:223][744]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:244][746]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:267][748]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:289][750]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:311][752]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:331][754]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:353][756]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:374][758]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:398][760]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:422][762]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:443][764]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:728][794]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:751][796]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:773][798]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:794][800]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:817][802]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:839][804]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:861][806]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:884][808]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:907][810]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:930][812]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:952][814]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:975][816]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.47:997][818]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.48:019][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.48:042][822]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.48:130][832]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.48:983][920]Cmd: TRANSACTION UNDO
+[2025.05.22-11.00.48:983][920]LogEditorTransaction: Undo Set Scale
+[2025.05.22-11.00.49:000][920]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.49:001][920]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.49:002][920]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:290][218]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:314][219]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:338][220]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:360][221]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:382][222]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:405][223]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:428][224]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:450][225]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:473][226]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:495][227]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:528][228]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:551][229]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:573][230]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:595][231]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:617][232]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:639][233]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:661][234]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:682][235]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:762][243]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:784][244]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:917][255]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:940][256]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:962][257]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.52:985][258]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:008][259]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:031][260]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:052][261]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:075][262]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:096][263]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:117][264]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:139][265]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.53:196][271]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.54:105][361]Cmd: TRANSACTION UNDO
+[2025.05.22-11.00.54:105][361]LogEditorTransaction: Undo Edit Linear Damping
+[2025.05.22-11.00.54:123][361]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.54:124][361]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.00.54:125][361]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.07:741][721]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPerson/Blueprints/Dialogue/SkeletoEnemy/Breathing_Idle__1_.Breathing_Idle__1_
+[2025.05.22-11.01.07:741][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.05.22-11.01.07:747][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-11.01.25:326][527]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.27:818][782]Cmd: TRANSACTION UNDO
+[2025.05.22-11.01.27:818][782]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.22-11.01.28:009][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-11.01.30:229][974]Cmd: TRANSACTION UNDO
+[2025.05.22-11.01.30:229][974]LogEditorTransaction: Undo Edit Post-Process AnimBP LOD Threshold
+[2025.05.22-11.01.30:245][974]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.30:432][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-11.01.33:475][282]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:485][283]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:493][284]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:504][285]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:513][286]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:523][287]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:531][288]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:541][289]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:551][290]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:560][291]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:570][292]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:581][293]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:590][294]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:599][295]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:618][297]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:638][299]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:656][301]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:666][302]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:675][303]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:686][304]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:715][307]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:725][308]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:735][309]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:745][310]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:753][311]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:763][312]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:773][313]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:782][314]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:792][315]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:803][316]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:812][317]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:822][318]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:832][319]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:842][320]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:851][321]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:861][322]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:871][323]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:881][324]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:891][325]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:900][326]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:910][327]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:920][328]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:931][329]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:940][330]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:949][331]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:958][332]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:969][333]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:979][334]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:987][335]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.33:997][336]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:008][337]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:017][338]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:026][339]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:037][340]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:047][341]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:057][342]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:066][343]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:076][344]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:085][345]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:095][346]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:105][347]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:114][348]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:124][349]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:134][350]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:145][351]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:154][352]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:164][353]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:174][354]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:184][355]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:194][356]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:202][357]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:212][358]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:222][359]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:232][360]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:242][361]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:252][362]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:262][363]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:272][364]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:281][365]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:291][366]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:300][367]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:310][368]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:320][369]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:329][370]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:339][371]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:349][372]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:359][373]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:370][374]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:379][375]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:399][377]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:774][417]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:784][418]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:793][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:802][420]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:812][421]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:823][422]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:832][423]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:842][424]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:852][425]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:862][426]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:872][427]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:882][428]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:890][429]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:900][430]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.34:911][431]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.35:004][441]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.35:947][542]Cmd: TRANSACTION UNDO
+[2025.05.22-11.01.35:947][542]LogEditorTransaction: Undo Edit Global Anim Rate Scale
+[2025.05.22-11.01.35:962][542]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.36:149][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.22-11.01.37:659][678]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.05.22-11.01.41:783][163]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.50:135][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3123.726074
+[2025.05.22-11.01.50:250][ 65]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.22-11.01.50:254][ 65]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-11.01.50:254][ 65]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-11.01.50:256][ 65]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.473 ms (total: 31.474 ms)
+[2025.05.22-11.01.50:259][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-11.01.50:260][ 65]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-11.01.50:263][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003302s)
+[2025.05.22-11.01.50:263][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003324s)
+[2025.05.22-11.01.50:288][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.22-11.01.50:289][ 65]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-11.01.50:291][ 65]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-11.01.50:291][ 65]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-11.01.50:291][ 65]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-11.01.50:291][ 65]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-11.01.50:292][ 65]LogWorldPartition: Display: WorldPartition initialize took 1.149 ms (total: 729.443 ms)
+[2025.05.22-11.01.50:292][ 65]LogPlayLevel: PIE: World Init took: (0.002262s)
+[2025.05.22-11.01.50:292][ 65]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-11.01.50:292][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-11.01.50:292][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-11.01.50:292][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-11.01.50:292][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-11.01.50:292][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-11.01.50:293][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.05.22-11.01.50:307][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.05.22-11.01.50:309][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.05.22-11.01.50:309][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.05.22-11.01.50:309][ 65]LogInit: FAudioDevice initialized with ID 25.
+[2025.05.22-11.01.50:309][ 65]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2025.05.22-11.01.50:309][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.05.22-11.01.50:325][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-11.01.50:325][ 65]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-11.01.50:326][ 65]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.50:327][ 65]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.22-13.01.50
+[2025.05.22-11.01.50:328][ 65]LogWorld: Bringing up level for play took: 0.002600
+[2025.05.22-11.01.50:330][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.05.22-11.01.50:331][ 65]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.01.50:337][ 65]PIE: Server logged in
+[2025.05.22-11.01.50:340][ 65]PIE: Play in editor total start time 0,085 seconds.
+[2025.05.22-11.01.50:408][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.22-11.01.50:408][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3123.947510, Update Interval: 339.910889
+[2025.05.22-11.01.52:401][227]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.05.22-11.01.56:286][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-11.01.56:286][559]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-11.01.56:286][559]LogSlate: Window 'TrabajoFinalM7 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.22-11.01.56:291][559]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-11.01.56:291][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-11.01.56:291][559]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-11.01.56:296][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-11.01.56:298][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-11.01.56:312][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.22-11.01.56:312][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.05.22-11.01.56:312][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.05.22-11.01.56:314][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.05.22-11.01.56:319][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.22-11.01.56:389][560]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.05.22-11.02.27:732][774]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.22-11.02.27:737][774]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.22-11.02.27:737][774]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.22-11.02.27:738][774]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.443 ms (total: 32.917 ms)
+[2025.05.22-11.02.27:740][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.22-11.02.27:740][774]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-11.02.27:744][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003012s)
+[2025.05.22-11.02.27:744][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003034s)
+[2025.05.22-11.02.27:756][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.22-11.02.27:757][774]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.22-11.02.27:758][774]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.22-11.02.27:758][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.22-11.02.27:758][774]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.22-11.02.27:758][774]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.22-11.02.27:759][774]LogWorldPartition: Display: WorldPartition initialize took 1.020 ms (total: 730.463 ms)
+[2025.05.22-11.02.27:759][774]LogPlayLevel: PIE: World Init took: (0.002036s)
+[2025.05.22-11.02.27:759][774]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.22-11.02.27:759][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.22-11.02.27:759][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.22-11.02.27:759][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.22-11.02.27:759][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.22-11.02.27:759][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.22-11.02.27:760][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.22-11.02.27:773][774]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2025.05.22-11.02.27:775][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.22-11.02.27:775][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.22-11.02.27:775][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.22-11.02.27:776][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.05.22-11.02.27:776][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.05.22-11.02.27:777][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.05.22-11.02.27:777][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.05.22-11.02.27:777][774]LogInit: FAudioDevice initialized with ID 26.
+[2025.05.22-11.02.27:777][774]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2025.05.22-11.02.27:777][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.05.22-11.02.27:801][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-11.02.27:801][774]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.22-11.02.27:802][774]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.02.27:803][774]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.22-13.02.27
+[2025.05.22-11.02.27:804][774]LogWorld: Bringing up level for play took: 0.002783
+[2025.05.22-11.02.27:806][774]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.05.22-11.02.27:806][774]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Girl_C already exists. Remove duplicates from the animation graph for this class.
+[2025.05.22-11.02.27:813][774]PIE: Server logged in
+[2025.05.22-11.02.27:815][774]PIE: Play in editor total start time 0,078 seconds.
+[2025.05.22-11.02.34:656][372]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2025.05.22-11.02.55:386][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.22-11.02.55:386][229]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.22-11.02.55:386][229]LogSlate: Window 'TrabajoFinalM7 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.22-11.02.55:390][229]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.22-11.02.55:391][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-11.02.55:391][229]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.22-11.02.55:393][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.22-11.02.55:396][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.22-11.02.55:410][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.05.22-11.02.55:410][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.05.22-11.02.55:412][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.05.22-11.02.55:416][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.22-11.02.55:530][230]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.05.22-11.03.01:172][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.22-11.03.01:225][808]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEC66745C06A02_1956532230 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/08/2Q862X0R3VC2JK7GY28Z9W.PackageMetaData in its package
+[2025.05.22-11.03.01:225][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.22-11.03.01:240][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.05.22-11.03.01:254][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.22-11.03.01:256][808]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E
+[2025.05.22-11.03.01:256][808]LogSavePackage: Moving '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Saved/101FH12QHFBY168Q6KB08E83A9796D48946F1CF9E62DA9CDECD6EE.tmp' to '../../../../../../Users/Megaluwu/Documents/Avalanche Studios/M7/TrabajoFinalM7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/KZ/101FH12QHFBY168Q6KB08E.uasset'
+[2025.05.22-11.03.01:264][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.558 ms (total: 592.370 ms)
+[2025.05.22-11.03.01:295][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.22-11.03.01:295][808]LogContentValidation: Enabled validators:
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.22-11.03.01:295][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.22-11.03.01:295][808]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.05.22-11.03.01:319][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
